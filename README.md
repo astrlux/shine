@@ -1,4 +1,4 @@
-# My First Hack Project
+# Usage
 
 Make sure you have [`composer`](https://getcomposer.org/download/) installed.
 
